@@ -20,7 +20,7 @@ Me chamo Pedro Henri Gois e sou estudante de Análise e Desenvolvimento de Siste
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luiz-morais-0b048727b/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/pedrohenrigois" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
       height="25" 
